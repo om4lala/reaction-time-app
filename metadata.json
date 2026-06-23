@@ -1,0 +1,6 @@
+{
+  "name": "Reaction Time Test",
+  "description": "A reaction time test site that logs personal bests and shows average scores across multiple attempts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
